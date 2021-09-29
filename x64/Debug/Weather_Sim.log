@@ -1,0 +1,3 @@
+﻿  Weather_Sim.cpp
+C:\Users\Havok\source\repos\Weather_Sim\Weather_Sim.cpp(55,28): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  Weather_Sim.vcxproj -> C:\Users\Havok\source\repos\Weather_Sim\x64\Debug\Weather_Sim.exe
